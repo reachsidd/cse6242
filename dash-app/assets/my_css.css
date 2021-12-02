@@ -1,0 +1,21 @@
+#my-boolean-switch {
+    width:600px;
+    position:absolute;
+    right:0px;
+}
+
+#page-content {
+	text-align: center;
+}
+
+#search-select-input .VirtualizedSelectOption  {
+	background-color: #3399ff;
+	font-size:'28px';
+	vertical-align: middle;
+}
+
+#search-select-input .VirtualizedSelectFocusedOption  {
+	background-color: lightblue;
+	font-size:'28px';
+	vertical-align: middle;
+}
